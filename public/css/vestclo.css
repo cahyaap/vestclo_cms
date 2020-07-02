@@ -1,0 +1,22 @@
+.nav-active {
+    font-weight: 600;
+}
+
+.vestclo-footer {
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    padding: 1rem 0;
+    background-color: #f7f7f7;
+    color: #212529;
+}
+
+.vestclo-footer a {
+    color: #212529;
+    font-weight: 900;
+}
+
+.out-of-stock,
+.out-of-stock .sorting_1 {
+    background-color: yellow !important;
+}
